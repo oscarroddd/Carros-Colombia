@@ -1,39 +1,39 @@
-# Carros-Colombia
 Kia sportage
-Kia Sportage
-Our page: https://autoorionkia.com/nuestros-vehiculos/suv-sportage	
+Kia sonet
+Our page: https://autoorionkia.com/nuestros-vehiculos/suv-sonet	
 Mazda cx30
 Cx 30
-Our page: https://mazkomazda.com/la-cx-30-la-combinacion-perfecta-de-estilo-rendimiento-y-tecnologia/	
+Our page: https://mazkomazda.com/mazda-cx-30/	
+Mercedes benz eq	
 Mercedes AMG
-Mercedes AMG
-Our page: https://massymotorspremium.com/mercedes-amg-mas-que-un-logo-una-historia/	
+Our page: https://massymotorspremium.com/eq/		
 Concesionario Cali
 carros usados cali
-https://usadosmassy.com/	
+our page: https://usadosmassy.com/	
+
 ¿Dónde está fabricado el Peugeot 2008?
 El Peugeot 
-https://peugeot.massymotors.co	
-¡Descubre el nuevo Fiat Pulse! La revolución en movilidad urbana
-¡Descubre el Fiat Pulse
-our page: https://fiat.massymotors.co		
-Descubre el Concesionario Jeep en Barranquilla! Tu destino para aventuras todoterreno
-¡Descubre el Concesionario Jeep en Barranquilla!
-our page: https://jeep.massymotorscosta.com/	
-¿Qué País es la Marca Opel?
-Opel, una marca emblemática de automóviles, tiene sus raíces en Alemania. Con una historia de innovación y excelencia en ingeniería, opel crossland
-our page: https://opel.massymotorscosta.com/opel-crossland	
+Our page: https://peugeot.massymotors.co/		
+Fiat Barranquilla
+fiat barranquilla
+our page: https://fiat.massymotors.co/		
 
-¿Cuántos tipos de Jeep Wrangler hay?
-jeep wrangler
-our page: https://jeep.massymotorscosta.com/jeep-wrangler	
-¿Qué Precio Tiene una Camioneta Volvo XC90?
-Sumérgete en el lujo y seguridad escandinava con la camioneta Volvo XC90.
-https://volvo.massymotorscosta.com/vehiculo/xc90-hybrid	
-Volkswagen T-Cross: La combinación perfecta entre versatilidad y tecnología
+¿Cuántos tipos de Jeep?
+jeep
+our page: https://jeep.massymotors.co/			
+Opel barranquilla
+Opel barranquilla 
+Our page: https://opel.massymotorscosta.com/	
+RAM barranquilla
+RAM barranquilla
+Our page: https://ram.massymotors.co/	
+Volvo Barranquilla
+Volvo barranquilla
+Our page: https://volvo.massymotorscosta.com/		
+Volkswagen jetta gli
 
-¡Descubre el Volkswagen T-Cross,
-our page: https://vw-germania.co/modelos/t-cross/	
+¡Descubre el Volkswagen jetta gli
+our page: https://vw-germania.co/modelos/jetta-gli/		
 Volvo XC90: La combinación perfecta entre lujo, tecnología y seguridad
 ¡Descubre el Volvo XC90
 our page: https://autolux.com.co/vehiculo/xc90-hybrid
